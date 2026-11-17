@@ -1,0 +1,6 @@
+{
+  "name": "ShipShape",
+  "description": "Release-readiness assessment agent that cross-checks test results, known bugs, release requirements, and deployment checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
